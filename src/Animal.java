@@ -2,6 +2,7 @@ public class Animal {
 
     public static String iAmDog() {
         return "I am a dog";
+
     }
 
     public static void  doStuff() {

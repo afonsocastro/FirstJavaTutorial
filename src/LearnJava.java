@@ -7,5 +7,6 @@ public class LearnJava {
 //        System.out.println(dog);
 //        ArrayList<Integer> a = new ArrayList<Integer>();
         Animal.doStuff();
+
     }
 }
